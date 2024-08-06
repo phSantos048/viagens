@@ -1,1 +1,2 @@
-# viagens
+Durante essa aula, tive a oportunidade de observar o professor demonstrar a criação de um site de viagens. O site era composto por quatro páginas distintas, cada uma desempenhando uma função específica. A primeira página permitia aos usuários escolherem seus destinos de viagem. Em seguida, havia uma página dedicada a informações sobre pagamento, onde os usuários poderiam fornecer seus detalhes financeiros. A terceira página fornecia informações detalhadas sobre os pontos turísticos disponíveis nos destinos escolhidos, ajudando os viajantes a planejarem melhor suas visitas. Por fim, a quarta página consolidava todas as informações, facilitando a organização da viagem.
+![image](https://github.com/user-attachments/assets/ebd91b81-15c9-47ad-8518-767c4adf1317)
